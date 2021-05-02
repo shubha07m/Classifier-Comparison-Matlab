@@ -1,2 +1,2 @@
 # Classifier-Comparison-Matlab
-Here I have built various type of classifier / discriminant and compared their performance.
+Here I have built various type of classifier / discriminant and compared their performance. We have compared the accuracy performance, confusion matrix and ROC + AOC for different discriminant like linear, diaglinear, quadratic, diagquadratic etc. We have also used PCA for dimensionality reduction and shown performed experiments using previously mentioned discriminant. This code has been developed in matlab.
